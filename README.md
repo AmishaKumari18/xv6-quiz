@@ -189,7 +189,9 @@ Efficient Copy-on-Write: Copy-on-write, where processes can share the same physi
 16.
 
 ls: The ls command is used to list the contents of a directory. When executed without any arguments, it displays the files and subdirectories in the current working directory.
+
 cd: The cd command is used to change the current working directory. It allows the user to navigate through the file system.
+
 cat : The cat command is used to concatenate and display the content of files. It can be used to display the entire content of a file on the terminal.
 
 17.
